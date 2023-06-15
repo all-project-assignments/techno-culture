@@ -1,0 +1,139 @@
+{
+    "columns": [
+        {
+            "label": "ROAD WIDTH",
+            "id" : 1,
+            "default":20 
+        },
+        {
+            "label": "Area Unit",
+            "id" : 2,
+            "default": 435.5 
+        },
+        {
+            "label": "Land Rate / DISMIL",
+            "id" : 3,
+            "default":10000 
+        },
+        {
+            "label": "RATE / SQFT",
+            "id" : 4,
+            "default":229.6 
+        },
+        {
+            "label": "ROAD FACTORS ",
+            "id" : 5,
+            "default":20 
+        },
+        {
+            "label": "BUILTUP/DECIMAL",
+            "id" : 6,
+            "default":20 
+        },
+        {
+            "label": "LAND AREA ( DEC.)",
+            "id" : 7,
+            "default":20 
+        },
+        {
+            "label": "LAND AREA (SQFT)",
+            "id" : 8,
+            "default":20 
+        },
+        {
+            "label": "BUILTUP AREA",
+            "id" : 9,
+            "default":20 
+        },
+        {
+            "label": "LAND PRICE 1 YEAR",
+            "id" : 10,
+            "default":20 
+        },
+        {
+            "label": "LAND PRICE 2 YEAR",
+            "id" : 11,
+            "default":20 
+        },
+        {
+            "label": "LAND PRICE 3 YEAR",
+            "id" : 12,
+            "default":20 
+        },
+        {
+            "label": "LAND PRICE 4 YEAR",
+            "id" : 13,
+            "default":20 
+        },
+        {
+            "label": "CONST. COST",
+            "id" : 14,
+            "default":20 
+        },
+        {
+            "label": "OTHER COST.",
+            "id" : 15,
+            "default":20 
+        },
+        {
+            "label": "TOTAL CONS.PRICE 1YEAR",
+            "id" : 16,
+            "default":20 
+        },
+        {
+            "label": "TOTAL CONS.PRICE 2YEAR",
+            "id" : 17,
+            "default":20 
+        },
+        {
+            "label": "TOTAL CONS.PRICE 3YEAR",
+            "id" : 18,
+            "default":20 
+        },
+        {
+            "label": "TOTAL CONS.PRICE 4YEAR",
+            "id" : 19,
+            "default":20 
+        },
+        {
+            "label": "TOTAL AMT 1 YEAR",
+            "id" : 20,
+            "default":20 
+        },
+        {
+            "label": "TOTAL AMT 2 YEAR",
+            "id" : 21,
+            "default":20 
+        },
+        {
+            "label": "TOTAL AMT 3 YEAR",
+            "id" : 22,
+            "default":20 
+        },
+        {
+            "label": "TOTAL AMT 4 YEAR",
+            "id" : 23,
+            "default":20 
+        },
+        {
+            "label": "LAND OWNER RATIO 1 YEAR",
+            "id" : 24,
+            "default":20 
+        },
+        {
+            "label": "LAND OWNER RATIO 2 YEAR",
+            "id" : 25,
+            "default":20 
+        },
+        {
+            "label": "LAND OWNER RATIO 3 YEAR",
+            "id" : 26,
+            "default":20 
+        },
+        {
+            "label": "LAND OWNER RATIO 4 YEAR",
+            "id" : 27,
+            "default":20 
+        }
+    ]
+}
