@@ -16,22 +16,22 @@
             "default":10000 
         },
         {
-            "label": "RATE / SQFT",
+            "label": "LAND AREA ( DEC.)",
             "id" : 4,
+            "default":20 
+        },
+        {
+            "label": "RATE / SQFT",
+            "id" : 5,
             "default":229.6 
         },
         {
             "label": "ROAD FACTORS ",
-            "id" : 5,
-            "default":20 
-        },
-        {
-            "label": "BUILTUP/DECIMAL",
             "id" : 6,
             "default":20 
         },
         {
-            "label": "LAND AREA ( DEC.)",
+            "label": "BUILTUP/DECIMAL",
             "id" : 7,
             "default":20 
         },
